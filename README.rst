@@ -17,7 +17,7 @@ Simple Stock Tracker Application
 Documentation
 -------------
 
-The full documentation is at http://stockTrack.rtfd.org.
+The full documentation is at http://stockTrack.rtfd.org. This have not been updated yet.
 
 Quickstart
 ----------
